@@ -13,3 +13,6 @@ For pipelines, we need to do the following things:
 -  Configuring Training Job
 -  Assembling the Pipeline
 -  Configuring and running the Pipeline Job
+
+  
+![image](https://github.com/user-attachments/assets/132e71c7-80ad-43d0-b1e3-78cbd433441f)
